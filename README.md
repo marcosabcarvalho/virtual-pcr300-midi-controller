@@ -4,7 +4,7 @@ Controlador MIDI criado para testar as funcionalidades do projeto do orgão de M
 ![PCR300-Virtual](https://github.com/user-attachments/assets/19674ba2-2725-43b2-a653-dbd7eb7a0517)
 
 Marcos Antonio Bezerra de Carvalho
-Thanks Marcel License!
+Thanks Marcel License!(https://www.youtube.com/@marcellicence)
 
 
 
